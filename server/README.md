@@ -3,7 +3,7 @@
 ### Step 1: Clone the repo or download
 
 ```bash
-git clone https://github.com/ms-maheswari/Appointment-Tracking.git
+git clone https://github.com/ms-maheswari/Mediflow-Organizer
 ```
 ### Step 2: cd into the cloned repo and run:
 ```bash
@@ -16,7 +16,7 @@ npm install
 
 * Credentials:
 ```bash
-PORT=8000
+PORT
 MONGODB_URI=YOUR MONGODB URI
 JWT_SECRET=YOUR SECRET KEY
 ```
