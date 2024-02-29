@@ -9,11 +9,6 @@ Mediflow Organizer is developed to streamline health information management, mak
 - **Upcoming Appointments**: Easy management of upcoming appointments.
 - **Actions**: Users can perform various actions such as editing, deleting, updating, and creating appointments with ease.
 
-## Usage
-
-1. Sign up or log in securely.
-2. Manage upcoming appointments.
-3. Perform actions such as editing, deleting, updating, and creating appointments as needed.
 
 ## Installation
 
