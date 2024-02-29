@@ -21,7 +21,7 @@ const LandingPage = () => {
         <Row>
           <div className="intro-text">
             <div>
-              <h1 className="title">Welcome to <i>Appointment Tracker</i></h1>
+              <h1 className="title">Welcome to <i>Mediflow Organizer</i></h1>
               <p className="subtitle">Keep your records safe</p>
             </div>
             <div className="buttonContainer">
