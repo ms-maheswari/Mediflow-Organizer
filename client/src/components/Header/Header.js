@@ -26,7 +26,7 @@ const Header = ({ setSearch }) => {
       <Container>
         <Navbar.Brand href="/">
           <Link to="/" style={{ textDecoration: "none" }}>
-          Appointment Tracker 
+          Mediflow Organizer
           </Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
