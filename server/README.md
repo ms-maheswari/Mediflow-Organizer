@@ -7,7 +7,7 @@ git clone https://github.com/ms-maheswari/Mediflow-Organizer
 ```
 ### Step 2: cd into the cloned repo and run:
 ```bash
-cd backend
+cd server
 ```
 ```bash
 npm install
